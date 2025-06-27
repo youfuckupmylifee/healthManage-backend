@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# Виртуальные окружения
+venv/
+env/
+.env
+
+# Данные базы данных
+instance/
+
+# Миграции базы данных
+migrations/
+
+# Требования
+*.txt
+
+# Логи
+*.log
+
+# Аватарки пользователей
+uploads/
+
+# Docker
+Dockerfile
